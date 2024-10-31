@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Awildroshi/Previewcardcomponent))
-- Live Site URL: (https://awildroshi.github.io/Previewcardcomponent/)
+- Solution URL: https://github.com/Awildroshi/Previewcardcomponent
+- Live Site URL: https://awildroshi.github.io/Previewcardcomponent/
 
 ## My process
 
@@ -55,7 +55,7 @@ Users should be able to:
 
 ## Author
 
-- Website - (https://awildroshi.github.io/Previewcardcomponent/)
+- Website - https://awildroshi.github.io/Previewcardcomponent/
 - Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
 
 
