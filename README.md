@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Awildroshi/Previewcardcomponent))
-- Live Site URL: (http://127.0.0.1:5500/index.html)
+- Live Site URL: [(http://127.0.0.1:5500/index.html)](https://awildroshi.github.io/Previewcardcomponent/)
 
 ## My process
 
