@@ -56,7 +56,7 @@ Users should be able to:
 ## Author
 
 - Website - [https://awildroshi.github.io/Previewcardcomponent/](https://awildroshi.github.io/Previewcardcomponent/)
-- Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [(https://www.frontendmentor.io/profile/yourusername)](https://www.frontendmentor.io/profile/Awildroshi)
 
 
 
